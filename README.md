@@ -72,17 +72,17 @@ Fique a vontade para adicionar outras informações (como por exemplo mapa mostr
 
 ## Observações
 
-* Uma vez carregado os usuários, em caso de mudança de tela, os dados não devem ser carregados novamente ([RouteReuseStrategy](https://angular.io/api/router/RouteReuseStrategy))
+* Utilize [Angular 9](https://angular.io)
 
 * Utilize [Bootstrap](https://getbootstrap.com) ou [MDBootstrap](https://mdbootstrap.com/docs/angular/getting-started/download)
 
-* Utilize [Angular 9](https://angular.io)
+* Utilize as boas práticas citadas no [site oficial](https://angular.io/guide/styleguide)
 
 * Crie [testes unitários](https://angular.io/guide/testing)
 
-* Utilize as boas práticas citadas no [site oficial](https://angular.io/guide/styleguide)
-
 * Crie uma página 404 caso a URL digitada não seja válida
+
+* Uma vez carregado os usuários, em caso de mudança de tela, os dados não devem ser carregados novamente ([RouteReuseStrategy](https://angular.io/api/router/RouteReuseStrategy))
 
 * Adicione no README um passo a passo de como testar a aplicação localmente e como buildá-la para produção
 
@@ -91,6 +91,10 @@ Fique a vontade para adicionar outras informações (como por exemplo mapa mostr
 * Não é necessário criar testes de integração
 
 * Caso tenha alguma dúvida da estória, fique a vontade para criar premissas. Só deixe-as explícitas no README do projeto.
+
+* Não esperamos que faça tudo do projeto. Priorize aquilo que acha mais importante e entregue no prazo estipulado.
+
+* Avaliaremos o seu modo de pensar, as boas práticas, o que você achou prioritário e o código em si
 
 __________
 
